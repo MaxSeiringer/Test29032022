@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Roland\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\seiringer.maximilian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roland\\OneDrive - HAK Liezen\\HAK\\SWP1\\SWP_6_Semester\\Test\\TestGITRepository\\Test29032022\\TestApplikation\\TestApplikation\\TestApplikation.csproj",
+      "projectUniqueName": "H:\\SWP\\Git\\Test29032022\\TestApplikation\\TestApplikation\\TestApplikation.csproj",
       "projectName": "TestApplikation",
-      "projectPath": "C:\\Users\\Roland\\OneDrive - HAK Liezen\\HAK\\SWP1\\SWP_6_Semester\\Test\\TestGITRepository\\Test29032022\\TestApplikation\\TestApplikation\\TestApplikation.csproj",
-      "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roland\\OneDrive - HAK Liezen\\HAK\\SWP1\\SWP_6_Semester\\Test\\TestGITRepository\\Test29032022\\TestApplikation\\TestApplikation\\obj\\",
+      "projectPath": "H:\\SWP\\Git\\Test29032022\\TestApplikation\\TestApplikation\\TestApplikation.csproj",
+      "packagesPath": "C:\\Users\\seiringer.maximilian\\.nuget\\packages\\",
+      "outputPath": "H:\\SWP\\Git\\Test29032022\\TestApplikation\\TestApplikation\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\seiringer.maximilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,18 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
