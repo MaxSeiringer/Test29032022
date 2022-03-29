@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PxVFnE6TcfvIrCXc7RtwUW4jEanTIW5vzgrXz9E+jrlXOBFIKShOyL/05GHfkhAN5DM/XIkDNbc/qq9k4gfGbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roland\\OneDrive - HAK Liezen\\HAK\\SWP1\\SWP_6_Semester\\Test\\TestGITRepository\\Test29032022\\TestApplikation\\TestApplikation\\TestApplikation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roland\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
